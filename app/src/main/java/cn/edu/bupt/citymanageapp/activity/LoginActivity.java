@@ -122,6 +122,7 @@ public class LoginActivity extends Activity implements View.OnClickListener {
         } else if (TextUtils.isEmpty(password)) {
             MToast.show(context, "请输入密码");
         } else if (userName.equals("admin") && password.equals("admin")) {
+            progressBar.setVisibility(View.GONE);
             gotoInspectionReportPage();
         } else {
             queryUserByDB(userName, password);
