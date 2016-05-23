@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="titleBar_height">45dp</dimen>
+
+    <dimen name="titleBar_textSize">18sp</dimen>
+
+    <dimen name="btn_textSize">16sp</dimen>
+</resources>

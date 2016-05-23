@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CityManageApp</string>
+
+    <string-array name="report">
+        <item>样本上报</item>
+        <item>巡查上报</item>
+        <item>核查任务</item>
+        <item>部件普查</item>
+        <item>草稿箱</item>
+        <item>发件箱</item>
+        <item>人员点报</item>
+        <item>快速上报</item>
+    </string-array>
+
+</resources>
